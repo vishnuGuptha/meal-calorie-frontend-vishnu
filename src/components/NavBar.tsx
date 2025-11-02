@@ -6,7 +6,6 @@ import { Button } from "@/components/ui/button";
 import { useAuthStore } from "@/store/auth";
 import { useRouter } from "next/navigation";
 import { Brand } from "@/components/Brand";
-import { useMealsStore } from "@/store/meals";
 
 export function NavBar() {
   const router = useRouter();
