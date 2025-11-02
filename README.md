@@ -1,3 +1,9 @@
+## 🚀 Live Demo
+🎯 **Calorie Calculator App** — Easily calculate calories per dish and track your daily intake.  
+👉 **Live Demo:** [https://calc-calorie.vercel.app/](https://calc-calorie.vercel.app/)
+
+![Vercel Deploy](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=flat&logo=vercel)
+
 # 🚀 Next.js Frontend Setup Guide
 
 This project is built using **Next.js**, a modern React framework for building fast and scalable web applications.
@@ -152,3 +158,28 @@ Author: Vishnu Gupta
 Framework: Next.js 14+
 Email: vishnugupta28899@gmail.com 
 Portfolio: [https://vishnudev.netlify.app/]
+
+## Screenshots (Light & Dark Mode)
+
+<table>
+  <tr>
+    <th>Dark Mode</th>
+    <th>Light Mode</th>
+  </tr>
+  <tr>
+    <td><img src="./screenshots/dark/1-Landing.png" alt="Dark Landing" width="300"><br>Landing Page - Dark Mode</td>
+    <td><img src="./screenshots/light/1-Landing.png" alt="Light Landing" width="300"><br>Landing Page - Light Mode</td>
+  </tr>
+  <tr>
+    <td><img src="./screenshots/dark/2-Register.png" alt="Dark Register" width="300"><br>Register Page - Dark Mode</td>
+    <td><img src="./screenshots/light/2-Register.png" alt="Light Register" width="300"><br>Register Page - Light Mode</td>
+  </tr>
+  <tr>
+    <td><img src="./screenshots/dark/3-Login.png" alt="Dark Login" width="300"><br>Login Page - Dark Mode</td>
+    <td><img src="./screenshots/light/3-Login.png" alt="Light Login" width="300"><br>Login Page - Light Mode</td>
+  </tr>
+  <tr>
+    <td><img src="./screenshots/dark/4-Dashboard.png" alt="Dark Dashboard" width="300"><br>Dashboard - Dark Mode</td>
+    <td><img src="./screenshots/light/4-Dashboard.png" alt="Light Dashboard" width="300"><br>Dashboard - Light Mode</td>
+  </tr>
+</table>
