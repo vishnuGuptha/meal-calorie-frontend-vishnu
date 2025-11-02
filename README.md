@@ -167,19 +167,20 @@ Portfolio: [https://vishnudev.netlify.app/]
     <th>Light Mode</th>
   </tr>
   <tr>
-    <td><img src="./screenshots/dark/1-Landing.png" alt="Dark Landing" width="400"><br>Landing Page - Dark Mode</td>
-    <td><img src="./screenshots/light/1-Landing.png" alt="Light Landing" width="400"><br>Landing Page - Light Mode</td>
+    <td><img src="./screenshots/dark/1-Landing.png" alt="Dark Landing" width="400"><br>Landing Page</td>
+    <td><img src="./screenshots/light/1-Landing.png" alt="Light Landing" width="400"><br>Landing Page</td>
   </tr>
   <tr>
-    <td><img src="./screenshots/dark/2-Register.png" alt="Dark Register" width="400"><br>Register Page - Dark Mode</td>
-    <td><img src="./screenshots/light/2-Register.png" alt="Light Register" width="400"><br>Register Page - Light Mode</td>
+    <td><img src="./screenshots/dark/2-Register.png" alt="Dark Register" width="400"><br>Register Page</td>
+    <td><img src="./screenshots/light/2-Register.png" alt="Light Register" width="400"><br>Register Page</td>
   </tr>
   <tr>
-    <td><img src="./screenshots/dark/3-Login.png" alt="Dark Login" width="400"><br>Login Page - Dark Mode</td>
-    <td><img src="./screenshots/light/3-Login.png" alt="Light Login" width="400"><br>Login Page - Light Mode</td>
+    <td><img src="./screenshots/dark/3-Login.png" alt="Dark Login" width="400"><br>Login Page</td>
+    <td><img src="./screenshots/light/3-Login.png" alt="Light Login" width="400"><br>Login Page</td>
   </tr>
   <tr>
-    <td><img src="./screenshots/dark/4-Dashboard.png" alt="Dark Dashboard" width="400"><br>Dashboard - Dark Mode</td>
-    <td><img src="./screenshots/light/4-Dashboard.png" alt="Light Dashboard" width="400"><br>Dashboard - Light Mode</td>
+    <td><img src="./screenshots/dark/4-Dashboard.png" alt="Dark Dashboard" width="400"><br>Dashboard</td>
+    <td><img src="./screenshots/light/4-Dashboard.png" alt="Light Dashboard" width="400"><br>Dashboard</td>
   </tr>
 </table>
+
