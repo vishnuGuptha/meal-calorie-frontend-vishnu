@@ -23,7 +23,7 @@ export async function apiPost<T>(path: string, body: unknown, token?: string): P
     const isJson = res.headers.get("content-type")?.includes("application/json");
     const payload = isJson ? await res.json() : null;
     if (!res.ok) {
-      return { data: null, error: payload?.error || `Request failed (${status})`, status };
+      return { data: null, error: await payload?.error || `Request failed (${status})`, status };
     }
     return { data: payload as T, error: null, status };
   } catch (err) {
